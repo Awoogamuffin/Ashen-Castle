@@ -1,0 +1,21 @@
+# Unreal
+unreal/**/Binaries/
+unreal/**/DerivedDataCache/
+unreal/**/Intermediate/
+unreal/**/Saved/
+unreal/**/.vs/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Blender autosaves
+*.blend1
+*.blend2
+*.blend3
+*.blend@
+
+# IDE project files
+*.sln
+*.xcodeproj
+*.xcworkspace
