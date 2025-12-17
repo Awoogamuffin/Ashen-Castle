@@ -27,12 +27,6 @@ public class AshenCastle : ModuleRules
 
 		PublicIncludePaths.AddRange(new string[] {
 			"AshenCastle",
-			"AshenCastle/Variant_Strategy",
-			"AshenCastle/Variant_Strategy/UI",
-			"AshenCastle/Variant_TwinStick",
-			"AshenCastle/Variant_TwinStick/AI",
-			"AshenCastle/Variant_TwinStick/Gameplay",
-			"AshenCastle/Variant_TwinStick/UI"
 		});
 
 		// Uncomment if you are using Slate UI
