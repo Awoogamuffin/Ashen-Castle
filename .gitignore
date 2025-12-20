@@ -4,6 +4,7 @@ unreal/**/DerivedDataCache/
 unreal/**/Intermediate/
 unreal/**/Saved/
 unreal/**/.vs/
+unreal/**/Build/
 
 # OS junk
 .DS_Store
