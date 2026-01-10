@@ -20,3 +20,9 @@ Thumbs.db
 *.sln
 *.xcodeproj
 *.xcworkspace
+
+.vscode/
+AshenCastle.code-workspace
+compile_commands.json
+.clangd
+.ignore
